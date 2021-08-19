@@ -1,6 +1,6 @@
 # OpenMPI
 
-This code shows the usage of MPI4PY package to demonstrate parallelisation using OpenMPI
+This code shows the usage of MPI4PY package to demonstrate parallelisation using OpenMPI.
 
 The data used in the above code is independent. The objective is decompose the domain and parallelize each loop and optimize.
 

@@ -8,6 +8,6 @@ Usage :
 
 Steps ->
 
-1. Clone the repositoy -> git clone <git-repo-url>
+1. Clone the repositoy -> git clone (git-repo-url)
 2. Install MPI4PY -> pip install mpi4py
-3. Run the code using -> mpirun -n <number of cores> python mpi.py
+3. Run the code using -> mpirun -n (number of cores) python mpi.py
